@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM" duration-ms="15155" started-at="2020-02-14T16:15:39 IST" finished-at="2020-02-14T16:15:54 IST">
+    <groups>
+    </groups>
+    <test name="orangehrm" duration-ms="15155" started-at="2020-02-14T16:15:39 IST" finished-at="2020-02-14T16:15:54 IST">
+      <class name="demoOrange.Testcases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:demoOrange.Testcases.TC_LoginTest_001@1f7030a6]" name="setup" is-config="true" duration-ms="6361" started-at="2020-02-14T16:15:39 IST" finished-at="2020-02-14T16:15:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:demoOrange.Testcases.TC_LoginTest_001@1f7030a6]" name="Logintest" duration-ms="7879" started-at="2020-02-14T16:15:45 IST" finished-at="2020-02-14T16:15:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demoOrange.Testcases.TC_LoginTest_001@1f7030a6]" name="tearDown" is-config="true" duration-ms="857" started-at="2020-02-14T16:15:53 IST" finished-at="2020-02-14T16:15:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoOrange.Testcases.TC_LoginTest_001 -->
+    </test> <!-- orangehrm -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>
